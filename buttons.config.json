@@ -1,0 +1,34 @@
+{
+  "outputDir": "buttons",
+  "readme": "README.md",
+  "theme": "purple",
+  "width": 240,
+  "height": 64,
+  "buttons": [
+    {
+      "id": "twitter",
+      "label": "Twitter",
+      "description": "@CallMeEhko",
+      "href": "https://x.com/CallMeEhko",
+      "icon": "twitter",
+      "iconColor": "#1d9bf0"
+    },
+    {
+      "id": "blog",
+      "label": "Blog",
+      "description": "ehko.dev",
+      "href": "https://ehko.dev",
+      "icon": "blog",
+      "iconColor": "#0098ff"
+    },
+    {
+      "id": "openphoton",
+      "label": "OpenPhoton",
+      "description": "Photon Realtime · C#",
+      "href": "https://github.com/ehkogh/OpenPhoton",
+      "iconFile": "../Photon/public/OpenPhoton/assets/openphoton.svg",
+      "fallbackIcon": "openphoton",
+      "iconColor": "#ffa4fa"
+    }
+  ]
+}

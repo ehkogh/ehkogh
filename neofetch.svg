@@ -7,114 +7,132 @@
       <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.42"/>
     </filter>
     <linearGradient id="asciiGlow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ff4d5a"/>
-      <stop offset="1" stop-color="#b93440"/>
+      <stop offset="0" stop-color="#ffa4fa"/>
+      <stop offset="1" stop-color="#5d427d"/>
     </linearGradient>
   </defs>
 
-  <rect width="1600" height="800" fill="#07070a00"/>
-  <rect x="24" y="24" width="1552" height="752" rx="18" fill="#0e0e13" stroke="#25252f" filter="url(#shadow)"/>
+  <rect width="1600" height="800" fill="#09070d00"/>
+  <rect x="24" y="24" width="1552" height="752" rx="18" fill="#100d14" stroke="#2d1a42" filter="url(#shadow)"/>
   <g aria-label="terminal window controls">
   <circle cx="48" cy="44" r="6" fill="#ff5f57"/>
   <circle cx="68" cy="44" r="6" fill="#febc2e"/>
   <circle cx="88" cy="44" r="6" fill="#28c840"/>
-  <text x="800" y="49" text-anchor="middle" fill="#a1a1aa" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="13">neofetch</text>
-  <line x1="24" y1="64" x2="1576" y2="64" stroke="#25252f"/>
+  <text x="800" y="49" text-anchor="middle" fill="#a887bc" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="13">neofetch</text>
+  <line x1="24" y1="64" x2="1576" y2="64" stroke="#2d1a42"/>
 </g>
 
   <g aria-label="system information">
-    <text x="82" y="290" fill="#ff4d5a" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="24" font-weight="800">ehko@github</text>
-    <text x="82" y="315" fill="#b93440" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18">────────────</text>
+    <text x="82" y="290" fill="#ffa4fa" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="24" font-weight="800">ehko@github</text>
+    <text x="82" y="315" fill="#5d427d" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18">────────────</text>
     <text x="82" y="340" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">OS</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">Windows 11 Pro</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">OS</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">Windows 11 Pro</tspan>
 </text>
 <text x="82" y="371" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">Role</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">Game Tooling Development</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">Role</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">Game Tooling Development</tspan>
 </text>
 <text x="82" y="402" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">Job</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">Nowhere :(</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">Job</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">Nowhere :(</tspan>
 </text>
 <text x="82" y="433" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">Location</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">Florida</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">Location</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">Gatorland USA</tspan>
 </text>
 <text x="82" y="464" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">Languages</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">Java, TypeScript, C++, C#, Go, Rust</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">Languages</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">Java, TypeScript, C++, C#, Go, Rust</tspan>
 </text>
 <text x="82" y="495" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">Editor</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">VSCode + Visual Studio</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">Editor</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">VSCode</tspan>
 </text>
 <text x="82" y="526" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">Favorite Game</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">Destiny 2 (Probably 1k+ hours)</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">Favorite Game</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">Destiny 2</tspan>
 </text>
 <text x="82" y="557" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="18" dominant-baseline="middle">
-  <tspan fill="#ff4d5a" font-weight="700">Uptime</tspan>
-  <tspan fill="#a1a1aa">: </tspan>
-  <tspan fill="#f4f4f5">8 Years</tspan>
+  <tspan fill="#ffa4fa" font-weight="700">Developer Uptime</tspan>
+  <tspan fill="#a887bc">: </tspan>
+  <tspan fill="#f7e7ec">8 Years</tspan>
 </text>
     <g aria-label="terminal color palette">
-  <rect x="82" y="603" width="27" height="27" rx="5" fill="#1b1b22"/>
-  <rect x="116" y="603" width="27" height="27" rx="5" fill="#ff4d5a"/>
-  <rect x="150" y="603" width="27" height="27" rx="5" fill="#f59e0b"/>
-  <rect x="184" y="603" width="27" height="27" rx="5" fill="#22c55e"/>
-  <rect x="218" y="603" width="27" height="27" rx="5" fill="#38bdf8"/>
-  <rect x="252" y="603" width="27" height="27" rx="5" fill="#a78bfa"/>
-  <rect x="286" y="603" width="27" height="27" rx="5" fill="#f472b6"/>
-  <rect x="320" y="603" width="27" height="27" rx="5" fill="#f4f4f5"/>
+  <rect x="82" y="603" width="27" height="27" rx="5" fill="#272629"/>
+  <rect x="116" y="603" width="27" height="27" rx="5" fill="#492f75"/>
+  <rect x="150" y="603" width="27" height="27" rx="5" fill="#8c4fc7"/>
+  <rect x="184" y="603" width="27" height="27" rx="5" fill="#a478c2"/>
+  <rect x="218" y="603" width="27" height="27" rx="5" fill="#eda1b3"/>
+  <rect x="252" y="603" width="27" height="27" rx="5" fill="#d0c0d8"/>
+  <rect x="286" y="603" width="27" height="27" rx="5" fill="#685470"/>
+  <rect x="320" y="603" width="27" height="27" rx="5" fill="#f7e7ec"/>
 </g>
   </g>
 
   <g aria-label="ASCII art" opacity="0.98">
-    <text x="919.47" y="160.81" fill="url(#asciiGlow)" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="14.81" font-weight="700" xml:space="preserve">
-  <tspan x="919.47" dy="0">                  &gt;@&gt;%)}%*:@@@@+{%@@   :#]}                        </tspan>
-  <tspan x="919.47" dy="16">                 [  =#@@@@@@@@@@@@@  @@@@@@                        </tspan>
-  <tspan x="919.47" dy="16">                @@@@@@@@@@@@@@@@@@@  @@  @@                        </tspan>
-  <tspan x="919.47" dy="16">              @@@@@@@@@@@@@@@@@@@@    @@-                          </tspan>
-  <tspan x="919.47" dy="16">             @@%@@)@@@@@@@@@@]  {@@@@@@@@@@@@                      </tspan>
-  <tspan x="919.47" dy="16">           @@@@@@(@@@@@@@#*@ %@@%@@@@@@@@@@@@@@@                   </tspan>
-  <tspan x="919.47" dy="16">          @@@@@%#)@@@@@@@*#@@@@@@@@@@@@@@@@#@@@@@)                 </tspan>
-  <tspan x="919.47" dy="16">         @@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                </tspan>
-  <tspan x="919.47" dy="16">        )}@@@@@&lt;%@@@(@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
-  <tspan x="919.47" dy="16">       @ @%}@@@@@@} @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@              </tspan>
-  <tspan x="919.47" dy="16">      @ :@{@@&lt;@@@@* @@@@@@@@@@@@@@@@@@@@@%@@@@@@#@@@@@@@           </tspan>
-  <tspan x="919.47" dy="16">     @  @@)@@@@@@@( @@@@@%@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@        </tspan>
-  <tspan x="919.47" dy="16">    @  @@{#@%}@@# *&gt;@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@#@@#@^@@       </tspan>
-  <tspan x="919.47" dy="16">   .@ =@@@@@@@@@@]@#@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@ @@       </tspan>
-  <tspan x="919.47" dy="16">   @  @@@@@@}@ @   @@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&gt;       </tspan>
-  <tspan x="919.47" dy="16">  @   @@@@{@@@@@= @@@@@@@@@%@@@#@@@@@@@@@@@@@@#@%@@@@@@@@@@        </tspan>
-  <tspan x="919.47" dy="16"> @@  @]@@@ @#+@@@%@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@(@@         </tspan>
-  <tspan x="919.47" dy="16"> @   @%@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@}@@          </tspan>
-  <tspan x="919.47" dy="16">@     @@@@@}@@}@@ ] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@            </tspan>
-  <tspan x="919.47" dy="16">@     @@@@@@@@@@@  -=@@@#@@@@@@@@@@%@@@@@@@@@@@%@@@@               </tspan>
-  <tspan x="919.47" dy="16">      @@@@@@@{@@     @@@@@@@@@@@@@@@@@@@@@@@@@@#@@                 </tspan>
-  <tspan x="919.47" dy="16">    : @@@@@@{#@@     @@@@@@@@@@@@@@@%@@@@@@@@@@@@                  </tspan>
-  <tspan x="919.47" dy="16">    # @@@#@@@%@     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@[                 </tspan>
-  <tspan x="919.47" dy="16">     %@@@@@@@@)     @@@@@@@@@@@@@@%@@@@@@@@@@@@@@@                 </tspan>
-  <tspan x="919.47" dy="16">    @@@@@@@@@@#   @@@%@@%@@%@@@@@@@@@@@@@@@@@@.                    </tspan>
-  <tspan x="919.47" dy="16">    @@@@%@@@ %#   @@%@@@@@@@@@@@@#@@@@@@@@@@@@                     </tspan>
-  <tspan x="919.47" dy="16">    @@@@@@@@  +  @@@@@@@@@#@@@@@@@@@@@@@%@@@@                      </tspan>
-  <tspan x="919.47" dy="16">    @@@@@@@   @  @@@@@@}@#@@@@@@@++ @@@@@@@                        </tspan>
-  <tspan x="919.47" dy="16">    &lt;@ @@@@      @@@@#@%@@@@@@@   @    @@@@                        </tspan>
-  <tspan x="919.47" dy="16">   @@  %@@      @@@@@@@@@@@@@@@                                    </tspan>
-  <tspan x="919.47" dy="16">       {@@     @@@@@@@@@@@@@@@                                     </tspan>
-  <tspan x="919.47" dy="16">     : @@     @@%#@@@@@@@@@#)@                                     </tspan>
-  <tspan x="919.47" dy="16">       @@&gt;  (@&lt;&lt;^({}}}}@@@@@@@@                                    </tspan>
-  <tspan x="919.47" dy="16">      %@@  [@@@@%@@@@@@{ .*)&lt;=@@:                                  </tspan>
-  <tspan x="919.47" dy="16">     @@@  )@@@@@@@@@@@@@@* &gt;(+++&lt;@                                 </tspan>
-  <tspan x="919.47" dy="16">     @@+  @@@@@@@@@@@@@@@@} =@[{*:}@                </tspan>
+    <text x="922.44" y="155.88" fill="url(#asciiGlow)" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="9.88" font-weight="700" xml:space="preserve">
+  <tspan x="922.44" dy="0">@@@@##@@@@@@@@@@@@@@##@@@%-:-----------------------:::--==:+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">@@@#%@@@@@@@@@@@@@@#*%@@#::-----------------------::::---:-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">@@#%@@@@@@@@@@@%##*##@@*:------------------------:::::-:::=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">@#%@@@@@@@@@@%*%@@@@%#+:-----------------------:::::::::::#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">#%@@@@@@@@@%##@@%%@@%=:----------------------:::::::::::::@@@@@@@@@@@@@@@@@@%%%#**+===--===+*##%%%%%</tspan>
+  <tspan x="922.44" dy="10.67">%@@@@@@@@@%#%@#*###%+:---------------------::::::::::::::-@@@@@@%#*+==-::::-----------==+++*********</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@@@@%#@%#*%@##+--------------------:::::::::::::::::+*=-:::----------------------------=++*****</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@@@%#@%#*%@#*-:-----------------:::::::::::::::::::::--------------------------------------+***</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@@%#%%#*%@%*::---------------:::::-----::::::---------------------------------------------+****</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@%*%%**#@%*-:-------------::------------------::--------------------------------------=********</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@#%@#*#@%#=:---------::::-----------------------::---------------------------------===++***+++*</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@#%@%#*%%#+::------::------------------------------:--------------------------------------------</tspan>
+  <tspan x="922.44" dy="10.67">@@@@%#@@##%@#+::----::-------------:::::::::-------------:----------------------------------------=+</tspan>
+  <tspan x="922.44" dy="10.67">@@@@#%@#*%@#*=::-:::-------::::---------:::::::------------:------------------------------------==++</tspan>
+  <tspan x="922.44" dy="10.67">@@@%#@@##@###=::::------::::::----------------:::-----------:----------------------------------===-:</tspan>
+  <tspan x="922.44" dy="10.67">@@@%#@@##*##+:::-------:::::--------:------------::----------::----------------------------=+#%%%*++</tspan>
+  <tspan x="922.44" dy="10.67">@@@%#@@%%###=::------:::::-----------:-------------:----------:---------------------::=+*#%%%%%@@@%*</tspan>
+  <tspan x="922.44" dy="10.67">@@@@%***#@@%-:-----:::::--------------::------------:----------::---:-----------::-+#%%%%%@@@@%*::::</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@@@@@@+:-----:::::---------------:::-------------:----------:---::--------:=#%%%%%%%%%%@@@*:::-</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@@@@@------:::-:-------:----------:::-:-----------:--------------::-----::+%%%%%%%%%%%@@@@%*---</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@@@%=-----::--:--------:-----------:::-:------:----:---------:---:::----::-=+%@#%#*%@*-----+#+%</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@@@%=-----::--:--------:------------:-::-:------:----:--------:---::::------:--=*#+----::-=****+</tspan>
+  <tspan x="922.44" dy="10.67">@@@@@%#------:---:----------------------:=*-::-:-----:----:-------::+-:::::------------:--::-%@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">@@@@##=-----:---:---------:--------------=#%*-::::----:------------:==--::::----------------:-%@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">@@##%*-----:----:---------::-------------+#@%#+-::::::-::::---:--------=#=:::----------------:=%@@@@</tspan>
+  <tspan x="922.44" dy="10.67">##@@#-----:----:------:---::-------------+#%@@%%*-:::::::::::::-----::::%@*=*=----------------:+@@@@</tspan>
+  <tspan x="922.44" dy="10.67">@@@@-----:-----------::---::-------------=#%@@@@%++*=:::::::::::::--::=@%+=*+::-----------------*@@@</tspan>
+  <tspan x="922.44" dy="10.67">@@@+-----:-----------::----:-------------=#%@@@+=*++++::::::=--:::::::+@*##++++=--------:-----==-#@@</tspan>
+  <tspan x="922.44" dy="10.67">@@#-----:------------::-----:------------+#%%=--#@#*-:::::::::-::::--:=#*##-***----------:---=====%@</tspan>
+  <tspan x="922.44" dy="10.67">@@=------------------:::---=:------------+###+%@@**-*-:::::-=:::::---:-+***##*%----------:-=======*@</tspan>
+  <tspan x="922.44" dy="10.67">@#-----:---:---------:::--=*:------------+#%+%@@#*:*#%#=------:--:----:*#*+**%@=-------==--=====+++%</tspan>
+  <tspan x="922.44" dy="10.67">@*----::-------------:::---*-:-----------*%#*@@#*-#@@@%=::-=++=--:-----+##+##@@------=====-===++++++</tspan>
+  <tspan x="922.44" dy="10.67">@=---::--:-----------:::---+#---------=**#@%+@@@*#@@@@##%%%%%%*-=--===-=+#%#*@#--===========++++++*+</tspan>
+  <tspan x="922.44" dy="10.67">*----::-:-------------::---=#*--:::=##%%%@@@*#@@#@@@%@@@@@%%%@@%**%%+=-#%#+*%*---========+==++++++**</tspan>
+  <tspan x="922.44" dy="10.67">:----:----------------:::---=+*--+###=#@@%%%#=%%@@@@@@@@@@@@%%#--======#+--*%+:--======++++=++++++*#</tspan>
+  <tspan x="922.44" dy="10.67">:=-----=--------------:::---=**-----=**=*#%%%%*+*%@@@@@@@@@@@#**#*+==+=**==++--=-===+++++++=++++***#</tspan>
+  <tspan x="922.44" dy="10.67">===---=--=------===-----:-=-::=*#*-:-:::+@@@@@@@+*@@@@@@@@#+#@%+==+*#*--%#*----=--+++++++++=+++****#</tspan>
+  <tspan x="922.44" dy="10.67">====--=====-------==----:---:::+#%%%+--==%@@@@@@@@%%###%@@@@@@@%**++=---##=-:--=--=+++++++*++=****#%</tspan>
+  <tspan x="922.44" dy="10.67">=====-=-====--==--===---:::::-+-=@@@%*=+@@@@@@@@@@@@@@@@@@@@@@@#=*#%*---#*+:-:--=--*+++****+++****#%</tspan>
+  <tspan x="922.44" dy="10.67">=====-=-+====-=-=--------:------*=-#%=+%+%%@@@@@@@@@@@@@@@@@@@@*=++++----**----:---+*******++*+**#*%</tspan>
+  <tspan x="922.44" dy="10.67">=++===+-++======-:----------------=+*%@#%@@@@@@@@@@@@@@@@@@@@@@*+***----*#%==------=********+*+###*#</tspan>
+  <tspan x="922.44" dy="10.67">-+++===++++++++===+=---------:----=%@##@@@@@@@%*+++#%@@@@@@@@@@***#*-:=#%##*-=-=----+*******+#*#%%*#</tspan>
+  <tspan x="922.44" dy="10.67">=+++++++++++++++==++---=----------==%@@@@@@@*===-=*+*+#@@@@@@@@*###+-*%#++##==----==+****###*%*#%%+%</tspan>
+  <tspan x="922.44" dy="10.67">*+++++*+++++++++==++=---=----------+%%@@@@@@*===+#####*#@@@@@@%=##*=#%%+--=#+-+#%@@**#######*%##@%+%</tspan>
+  <tspan x="922.44" dy="10.67">*+*+++**++++++++=-+++---=------------=%@@@@@@#-=######*%@@@@@%==%%*##%%%*-=#*#@@@@@%*####%%#+%##@#*%</tspan>
+  <tspan x="922.44" dy="10.67">#+******++++++*+===++---==----------===+*%@@@@@**###%%@@@@@%+--+%#*#%%#%+--==--%@@@%#%%%%%%*#%*#@*@@</tspan>
+  <tspan x="922.44" dy="10.67">%+******++++++**=--+++--===----------====--=*%@@@@@%@@@@@%+-:+**%*####**+=-----+@@@@#%%%@@@#%%*%#%@@</tspan>
+  <tspan x="922.44" dy="10.67">@+******++****+*=:-=++=--=--:---------======---:-*%@@@@#-:+@*+*#*+#+=-=*--=+---=@@@@*#@@@@@#%#+#+%@@</tspan>
+  <tspan x="922.44" dy="10.67">@*******++******=---=**=--------------===-=+#%@@@@%#*++##@@+-:=#+=---==+------=-+%@@*#@@@@@#%-#*%@@@</tspan>
+  <tspan x="922.44" dy="10.67">@#***#*#*+#*****+-:-==*+=---=--====----+%@@@@@@@@@@@@@@@@@@=--*+=+-----=+-==+#----+*=%@@@@%#*@@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">@%#######+*####*+----==*+=====--==+*@@@@@@@@@@@@@@@@@@@@@@@+-=*--*---=+==----*+*+++==@@@@@%%@@@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">*#*%%#%###+#####+------+*+==#==+#@@@@@@@@@@@@@@@@@@@@@@@#+==*=**-=#%#*+----=+##@@%++*@@@@@*%@@@@@@@@</tspan>
+  <tspan x="922.44" dy="10.67">%%%%@%%%%%*#%%%%*-------+%*=-#@@@@@@@@@@@@@@@@@@@@@@@@%=--*+==*%%#**-----=#@@@@%#@@@#@@@#**+++++===+</tspan>
+  <tspan x="922.44" dy="10.67">*%@@@##*%%@*%%%%#=------==#**@@@@@@@@@@@@@@@@@@@@@@%%%+==-=*=**##%*----+%@@@@#*@@@@@#@@##@@@@@#%@@@@</tspan>
 </text>
   </g>
 </svg>

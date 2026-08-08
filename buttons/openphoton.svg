@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64" role="img" aria-labelledby="title desc">
+  <title id="title">OpenPhoton</title>
+  <desc id="desc">Photon Realtime · C#</desc>
+  <rect x=".75" y=".75" width="238.5" height="62.5" rx="11" fill="#100d14" stroke="#2d1a42" stroke-width="1.5"/>
+  <path d="M12 .75h216" stroke="#ffa4fa" stroke-opacity=".22" stroke-linecap="round"/>
+  <rect x="15" y="11" width="42" height="42" rx="9" fill="#5d427d" opacity=".14"/>
+  <rect x="15" y="11" width="42" height="42" rx="9" fill="none" stroke="#2d1a42"/>
+  <image x="18" y="14" width="36" height="36" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ik9wZW5QaG90b24iPgogIDx0aXRsZT5PcGVuUGhvdG9uPC90aXRsZT4KCiAgPHN0eWxlPgogICAgLyogUmVmZXJlbmNlZCB0aHJvdWdoICZsdDtpbWcmZ3Q7IHRoZSBTVkcgaXMgaXRzIG93biBkb2N1bWVudCwgc28gaXQgY2Fubm90IGluaGVyaXQgYQogICAgICAgcGFnZSBjb2xvdXIuIEl0IGFuc3dlcnMgcHJlZmVycy1jb2xvci1zY2hlbWUgaXRzZWxmIGluc3RlYWQsIHdoaWNoIGtlZXBzIG9uZSBmaWxlCiAgICAgICBsZWdpYmxlIG9uIGJvdGggYSBsaWdodCBhbmQgYSBkYXJrIFJFQURNRS4gKi8KICAgIDpyb290IHsgLS1tYXJrOiAjZmZhNGZhOyB9CiAgICAKCiAgICAubGluZSB7IGZpbGw6IG5vbmU7IHN0cm9rZTogdmFyKC0tbWFyayk7IHN0cm9rZS1saW5lY2FwOiByb3VuZDsgc3Ryb2tlLWxpbmVqb2luOiByb3VuZDsgfQogICAgLm5vZGUgeyBmaWxsOiB2YXIoLS1tYXJrKTsgfQogIDwvc3R5bGU+CgogIDxwYXRoIGNsYXNzPSJsaW5lIiBkPSJNMTIgNDEgQSAyMCAyMCAwIDAgMSA1MiA0MSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KICA8cGF0aCBjbGFzcz0ibGluZSIgZD0iTTEyIDQxIFEgMjIgMzAgMzIgNDEgVCA1MiA0MSIgc3Ryb2tlLXdpZHRoPSI0Ii8+CgogIDxjaXJjbGUgY2xhc3M9Im5vZGUiIGN4PSIxMiIgY3k9IjQxIiByPSI0LjUiLz4KICA8Y2lyY2xlIGNsYXNzPSJub2RlIiBjeD0iNTIiIGN5PSI0MSIgcj0iNC41Ii8+CiAgPGNpcmNsZSBjbGFzcz0ibm9kZSIgY3g9IjMyIiBjeT0iMjEiIHI9IjQuNSIvPgo8L3N2Zz4K" preserveAspectRatio="xMidYMid meet"/>
+  <text x="67" y="28" fill="#f7e7ec" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="15" font-weight="700">OpenPhoton</text>
+  <text x="67" y="45" fill="#a887bc" font-family="&apos;JetBrains Mono&apos;, &apos;Cascadia Mono&apos;, &apos;Fira Code&apos;, Consolas, monospace" font-size="11">Photon Realtime · C#</text>
+  <path d="m217 27 5 5-5 5" fill="none" stroke="#a887bc" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
